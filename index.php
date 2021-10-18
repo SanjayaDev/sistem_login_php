@@ -1,6 +1,6 @@
 <?php 
 session_start();
-require "koneksi.php";
+require "init.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
